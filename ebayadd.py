@@ -41,4 +41,4 @@ if __name__ == '__main__':
     }
 
     # Verify add item to test first
-    api.execute("AddItem", request)
+    api.execute("VerifyAddItem", request)
